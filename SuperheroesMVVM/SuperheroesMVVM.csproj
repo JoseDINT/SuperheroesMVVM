@@ -58,8 +58,6 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="converters\FondoConverter.cs" />
-    <Compile Include="converters\VisibilityConverter.cs" />
     <Compile Include="MainWindowVM.cs" />
     <Compile Include="Superheroe.cs" />
     <Page Include="MainWindow.xaml">
